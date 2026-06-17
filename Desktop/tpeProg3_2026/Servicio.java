@@ -116,7 +116,7 @@ public class Servicio {
     La estrategia elegida consiste en ordenar los paquetes en forma descendente segun su peso. Luego, para 
     cada paquete, se busca entre los camiones disponibles aquel que pueda transportarlo respetando las 
     restricciones del problema y que, una vez asignado el paquete, deje la menor capacidad libre posible.
-     De esta manera buscamos minimizar el peso de los paquetes que no fueron asigandos
+     De esta manera buscamos minimizar el pesoo de los paquetes que no fueron asigandos
     
        Complejidad:
     O(P*C) -> P=paquetes, C=Camiones
